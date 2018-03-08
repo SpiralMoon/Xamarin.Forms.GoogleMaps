@@ -3,6 +3,8 @@
 
 [English README is here！](README.md)
 
+[한국어 README 는 이쪽입니다!](README-ko.md)
+
 Xamarin.Forms 用の Googleマップライブラリです。
 
 [Xamarin.Forms.Maps](https://github.com/xamarin/Xamarin.Forms) をフォークして作っているので、使い方はほとんど同じです。
